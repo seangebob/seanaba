@@ -1,4 +1,4 @@
-# seanaba
+# sean aba
 math @ [uwaterloo]
 
 [LinkedIn] | [Portfolio] | [Twitter] 
