@@ -1,7 +1,7 @@
 # seanaba
 math @uwaterloo
 
-[LinkedIn] | [Portfolio] |[Twitter] 
+[LinkedIn] | [Portfolio] | [Twitter] 
 
 saba@uwaterloo.ca
 
