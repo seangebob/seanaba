@@ -1,9 +1,10 @@
 # seanaba
 math @uwaterloo
 
-LinkedIn [1] | Portfolio [2] |Twitter [3]
+[LinkedIn] | [Portfolio] |[Twitter] 
+
 saba@uwaterloo.ca
 
-[1]: https://www.linkedin.com/in/seanaba/
-[2]: https://seangebob.github.io/portfolio/
-[3]: https://x.com/seangebobb
+[LinkedIn]: https://www.linkedin.com/in/seanaba/
+[Portfolio]: https://seangebob.github.io/portfolio/
+[Twitter]: https://x.com/seangebobb
