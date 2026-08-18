@@ -9,3 +9,5 @@ saba@uwaterloo.ca
 [Portfolio]: https://seangebob.github.io/portfolio/
 [Twitter]: https://x.com/seangebobb
 [uwaterloo]: https://uwaterloo.ca/math/faculty-and-staff
+
+Learning everyday
