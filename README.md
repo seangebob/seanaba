@@ -1,13 +1,14 @@
 # sean aba
-math @ [uwaterloo]
+math + cs @ [uwaterloo]
 
-[LinkedIn] | [Portfolio] | [Twitter] 
+[linkedin] | [website] | [email] | [x]
 
 saba@uwaterloo.ca
 
-[LinkedIn]: https://www.linkedin.com/in/seanaba/
-[Portfolio]: https://seanaba.vercel.app
-[Twitter]: https://x.com/seangebobb
+[linkedin]: https://www.linkedin.com/in/seanaba/
+[website]: https://seanaba.vercel.app
+[x]: https://x.com/seangebobb
 [uwaterloo]: https://uwaterloo.ca/math/faculty-and-staff
+[email]: saba@uwaterloo.ca
 
 Learning everyday
