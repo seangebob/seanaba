@@ -1,5 +1,5 @@
 # sean aba
-math + cs @ [uwaterloo]
+math @ [uwaterloo]
 
 [linkedin] | [website] | [email] | [x]
 
